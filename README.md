@@ -1,0 +1,3 @@
+- Parses nested HRML tags
+- Supports multi-attribute lookup
+- Uses stack + unordered map
